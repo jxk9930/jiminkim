@@ -19,7 +19,8 @@ I am an engineering student passionate about bridging the gap between mechanical
     * Proposed the core concept and system architecture for a cloud-based Camera-LiDAR fusion system for Diabetic Foot Ulcer (DFU) monitoring. 
     * Successfully devised the innovative sensor integration pipeline and AI analytical architecture within a limited hackathon timeframe.
     * 📄 [Read the full Technical Report here](https://docs.google.com/document/d/1giuahEChxRSitdeoxDgO_9MUZU-1v-hC/edit#heading=h.33nsoo122uwy)
-    <img width="1284" height="1699" alt="Hackathon" src="https://github.com/user-attachments/assets/ed008579-4c2a-4b71-92ce-30d911db7a1c" />
+    <img width="600" height="794" alt="Hackathon" src="https://github.com/user-attachments/assets/07b9a3e0-c633-454e-9b68-d7ec01f2622d" />
+
 
 
 
@@ -27,4 +28,5 @@ I am an engineering student passionate about bridging the gap between mechanical
     * Design Team Leader for **'Mecar'** (Yonsei University Central Club).
     * Introduced simulation-driven design methods (Adams Car, SolidWorks) to optimize suspension kinematics and resolve structural interference.
     * 🏁 **Key Achievement:** Successfully enabled the vehicle to complete the final endurance race for the first time since the club's founding.
-    <img width="6048" height="4032" alt="Mecar" src="https://github.com/user-attachments/assets/9632e12f-f38f-4467-b1d8-0d6e60e952f7" />
+    <img width="800" height="533" alt="Mecar" src="https://github.com/user-attachments/assets/f24daf88-6c59-46a1-b404-b25bfd598845" />
+
