@@ -19,7 +19,8 @@ I am an engineering student passionate about bridging the gap between mechanical
     * Proposed the core concept and system architecture for a cloud-based Camera-LiDAR fusion system for Diabetic Foot Ulcer (DFU) monitoring. 
     * Successfully devised the innovative sensor integration pipeline and AI analytical architecture within a limited hackathon timeframe.
     * 📄 [Read the full Technical Report here](https://docs.google.com/document/d/1giuahEChxRSitdeoxDgO_9MUZU-1v-hC/edit#heading=h.33nsoo122uwy)
-    <img width="600" height="794" alt="Hackathon" src="https://github.com/user-attachments/assets/07b9a3e0-c633-454e-9b68-d7ec01f2622d" />
+    <img width="300" height="397" alt="Hackathon" src="https://github.com/user-attachments/assets/c0e331cb-ee72-4a34-a1c6-864ce4830ffc" />
+
 
 
 
